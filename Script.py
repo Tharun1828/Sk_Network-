@@ -14,7 +14,7 @@ class script(object):
 - 𝕊𝕜 ℕ𝕖𝕥𝕨𝕠𝕣𝕜 
 - https://t.me/Sk_Network_Movies  
 
-<b>DEVS:</b>
+<b>JOIN FAST:</b>
 - <a href=https://t.me/Sk_Network>𝕊𝕜 ℕ𝕖𝕥𝕨𝕠𝕣𝕜</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
